@@ -14,7 +14,7 @@ On Unix-based systems (Linux, Mac OS X, etc.), VIMRC files are saved to the user
 
 _NOTE:_ gVim, the Windows Vim editor, uses a file with the name \_vimrc instead of .vimrc.
 
-## Plugins Overview
+### Plugins Overview
 
 - [Vundle](https://github.com/VundleVim/Vundle.vim) - Vundle is short for Vim bundle and is a Vim plugin manager.
 - [WakaTime](https://wakatime.com/vim) - The open source plugin for productivity metrics, goals, leaderboards, and automatic time tracking.
