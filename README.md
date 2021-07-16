@@ -27,3 +27,4 @@ _NOTE:_ gVim, the Windows Vim editor, uses a file with the name \_vimrc instead 
 - [Vim Airline Themes](https://github.com/vim-airline/vim-airline-themes) - Themes for Airline Plugin.
 - [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - A code-completion engine for Vim.
 - [Vim Prettier](https://github.com/prettier/vim-prettier) - An opinionated code formatter.
+- [Neoformat](https://github.com/sbdchd/neoformat) - A (Neo)vim plugin for formatting code.
