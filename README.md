@@ -1,4 +1,5 @@
 # My Vim Config
+<img src="https://img.shields.io/static/v1?label=VIM&message=Text%20Editor&color=339933&style=for-the-badge&logo=Vim"/>
 
 Repository to store my .vimrc file settings
 
