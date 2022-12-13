@@ -29,3 +29,19 @@ _NOTE:_ gVim, the Windows Vim editor, uses a file with the name \_vimrc instead 
 - [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - A code-completion engine for Vim.
 - [Vim Prettier](https://github.com/prettier/vim-prettier) - An opinionated code formatter.
 - [Neoformat](https://github.com/sbdchd/neoformat) - A (Neo)vim plugin for formatting code.
+
+### How to use this file [Linux]
+
+First at all, you need to have GIT installed (hard not to have since you're on linux).
+
+With that, you need to install vundle, run the command:
+
+```bash
+git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+```
+
+After that, open vim and run:
+```vim
+:PluginInstall
+```
+That's it!
